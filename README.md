@@ -24,7 +24,7 @@ To get started,
 
 1. Open the solution file, `JSServiceSamples.sln`, in Visual Studio or just a folder with your favorite editor.
 2. Wait for it to finish fetching and installing dependencies.
-3. If you get the error `'reactivex/rxjs' is not in the npm registry`, then your Visual Studio installation's version of the NPM tool is out of date. You will need to restore NPM dependencies manually from a command prompt (e.g., `cd samples\angular\MusicStore` then `npm install`).
+3. If you get the error `'reactivex/rxjs' is not in the npm registry`, then your Visual Studio installation's version of the NPM tool is out of date. You will need to restore NPM dependencies manually from a command prompt (e.g., `cd 0-basic-spa` then `npm install`).
 4. Select a sample and run it. 
 
 **Using dotnet on Windows/Mac/Linux**
