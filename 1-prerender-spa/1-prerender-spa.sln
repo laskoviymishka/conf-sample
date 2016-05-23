@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "1.PrerenderSpa", "src\1.PrerenderSpa.xproj", "{5BD680B0-1A7D-4CB1-9790-E3DF8D1B6BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BD680B0-1A7D-4CB1-9790-E3DF8D1B6BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD680B0-1A7D-4CB1-9790-E3DF8D1B6BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD680B0-1A7D-4CB1-9790-E3DF8D1B6BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD680B0-1A7D-4CB1-9790-E3DF8D1B6BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
